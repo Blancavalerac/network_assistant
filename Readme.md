@@ -1,4 +1,5 @@
 **Network Assistant**
+
 **Overview**
 Network Assistant is a Python-based application that helps users optimize their LinkedIn profiles using Generative AI. By extracting relevant tips, analyzing sample profiles, and generating custom recommendations, this tool enables users to present themselves more effectively in the professional world.
 

@@ -8,6 +8,7 @@ Network Assistant is a Python-based application that helps users optimize their 
 **Project Structure and Code Explanation**
 
 **1. Libraries and API Setup**
+
 The project uses the following libraries:
 
 PIL and pytesseract for Optical Character Recognition (OCR) to extract text from profile images.

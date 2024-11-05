@@ -16,7 +16,7 @@ requests and BeautifulSoup for web scraping to gather LinkedIn profile tips.
 Azure OpenAI to access the GPT-4 language model for generating personalized descriptions.
 Streamlit to build an interactive web interface.
 
-**2. Data Gathering****
+**2. Data Gathering**
 
 Web Scraping: 
 The obtener_consejos_desde_url function scrapes tips for LinkedIn profiles from LinkedIn's blog using BeautifulSoup.
